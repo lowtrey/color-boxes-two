@@ -1,4 +1,5 @@
 import React from 'react';
+import './BoxContainer.css';
 import Box from './Box';
 
 class BoxContainer extends React.Component {
